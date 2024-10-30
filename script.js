@@ -1,4 +1,4 @@
-// https://freecodez.com
+
 function creatediya() {
     const diya = document.createElement("div");
     diya.classList.add("diyasx");
